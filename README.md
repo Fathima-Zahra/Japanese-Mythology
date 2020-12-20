@@ -1,2 +1,2 @@
-# Blooger_Website
-This is the complete blooger website create using html and css
+# Japanese Mythology Website
+This is the complete Japanese Mythology website create using html,css and javascript
