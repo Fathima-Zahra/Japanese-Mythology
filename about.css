@@ -160,6 +160,7 @@ body{
  .site-title{
     background: url('./assets/about-header.jpg');
     background-size: cover;
+    width:100vw;
     height: 100vh;
     display: flex;
     justify-content: center;
